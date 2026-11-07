@@ -1,7 +1,0 @@
-# Holds your email app password - never commit it
-config.json
-
-# Python / logs
-__pycache__/
-*.pyc
-*.log
