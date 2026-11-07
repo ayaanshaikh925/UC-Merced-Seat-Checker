@@ -1,0 +1,12 @@
+{
+  "crns": ["10640"],
+  "notify_email": "you@ucmerced.edu",
+  "subject": "CSE",
+  "term": "202710",
+  "interval_seconds": 120,
+  "email_every_minutes_while_open": 0,
+  "smtp_user": "yourname@gmail.com",
+  "smtp_password": "your 16-char app password",
+  "smtp_host": "smtp.gmail.com",
+  "smtp_port": 587
+}
