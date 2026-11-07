@@ -39,8 +39,8 @@ Monitored courses:
 ### 1. Download the script
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/ayaanshaikh925/UC-Merced-Seat-Checker.git
+cd UC-Merced-Seat-Checker
 ```
 
 Or download `seat_monitor.py` and `config.example.json` into a folder.
